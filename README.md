@@ -14,7 +14,9 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`digits_sum.py`** - Calculates the sum of all digits in a number
 - **`reverse_no.py`** - Reverses a number using both iterative and recursive approaches
 - **`fatcorial.py`** - Calculates factorial using recursive function
+- **`armstrong.py`** - Checks whether a number is an Armstrong number
 - **`sum.py`** - Basic summation operations
+- **`GCD.py`** - Computes the greatest common divisor of two numbers
 
 ### Prime Numbers
 - **`primeCheck.py`** - Checks if a number is prime using both iterative and recursive methods
