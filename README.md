@@ -26,6 +26,13 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`palindrome.py`** - Checks if a list is a palindrome
 - **`string_prc.py`** - String processing operations
 - **`var_prc.py`** - Variable and data type processing
+- **`String/CountWrds.py`** - Counts words in a string
+- **`String/SpaceRep.py`** - Replaces or processes spaces in text
+- **`String/Vow_Cons.py`** - Counts vowels and consonants
+- **`String/duplicate.py`** - Finds duplicate characters and counts occurrences
+- **`String/pal_str.py`** - Checks if a string is a palindrome
+- **`String/reverse.py`** - Reverses a string using recursion
+- **`String/practice.py`** - Miscellaneous string practice examples
 
 ### Other
 - **`first.py`** - Initial practice script
