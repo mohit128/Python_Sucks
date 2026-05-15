@@ -29,6 +29,7 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`String/Anagram.py`** - Checks if two strings are anagrams
 - **`String/Capitalize.py`** - Capitalizes strings
 - **`String/CountWrds.py`** - Counts words in a string
+- **`String/Freq_Chr.py`** - Finds character frequency in a string
 - **`String/SpaceRep.py`** - Replaces or processes spaces in text
 - **`String/Vow_Cons.py`** - Counts vowels and consonants
 - **`String/duplicate.py`** - Finds duplicate characters and counts occurrences
