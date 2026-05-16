@@ -30,11 +30,13 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`String/Capitalize.py`** - Capitalizes strings
 - **`String/CountWrds.py`** - Counts words in a string
 - **`String/Freq_Chr.py`** - Finds character frequency in a string
+- **`String/Longest_Word.py`** - Finds the longest word in a sentence
+- **`String/RemoveSpecial.py`** - Removes special characters from a string
+- **`String/Replace_Space.py`** - Replaces spaces or processes whitespace
 - **`String/SpaceRep.py`** - Replaces or processes spaces in text
 - **`String/Vow_Cons.py`** - Counts vowels and consonants
 - **`String/duplicate.py`** - Finds duplicate characters and counts occurrences
 - **`String/Non_dup.py`** - Finds non-duplicate (unique) characters in a string
-- **`String/RemoveSpecial.py`** - Removes special characters from a string
 - **`String/pal_str.py`** - Checks if a string is a palindrome
 - **`String/reverse.py`** - Reverses a string using recursion
 - **`String/practice.py`** - Miscellaneous string practice examples
