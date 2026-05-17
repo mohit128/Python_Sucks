@@ -28,11 +28,15 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`var_prc.py`** - Variable and data type processing
 - **`String/Anagram.py`** - Checks if two strings are anagrams
 - **`String/Capitalize.py`** - Capitalizes strings
+- **`String/Check_substring.py`** - Checks whether a substring exists in a string
 - **`String/CountWrds.py`** - Counts words in a string
 - **`String/Freq_Chr.py`** - Finds character frequency in a string
 - **`String/Longest_Word.py`** - Finds the longest word in a sentence
+- **`String/Only_digits.py`** - Extracts only digits from a string
 - **`String/RemoveSpecial.py`** - Removes special characters from a string
 - **`String/Replace_Space.py`** - Replaces spaces or processes whitespace
+- **`String/Rmv_Dup_Chr.py`** - Removes duplicate characters from a string
+- **`String/Sort_characters.py`** - Sorts characters in a string
 - **`String/SpaceRep.py`** - Replaces or processes spaces in text
 - **`String/Vow_Cons.py`** - Counts vowels and consonants
 - **`String/duplicate.py`** - Finds duplicate characters and counts occurrences
