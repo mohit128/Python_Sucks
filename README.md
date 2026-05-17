@@ -73,6 +73,8 @@ Most scripts take user input or have hardcoded test values. Check individual fil
 
 These are practice scripts for learning Python fundamentals. They demonstrate various problem-solving approaches and algorithm implementations.
 
+Note: I sometimes use AI assistance (Claude) to get hints or guidance while solving problems; the code in this repo is implemented and adapted by me.
+
 ---
 
 **Repository:** `/home/mparmar/Documents/Python_sucks`
