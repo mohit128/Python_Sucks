@@ -32,6 +32,7 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`String/CountWrds.py`** - Counts words in a string
 - **`String/Freq_Chr.py`** - Finds character frequency in a string
 - **`String/Longest_Word.py`** - Finds the longest word in a sentence
+- **`String/Longest_subStr.py`** - Finds longest substring without repeating characters (various approaches)
 - **`String/Only_digits.py`** - Extracts only digits from a string
 - **`String/RemoveSpecial.py`** - Removes special characters from a string
 - **`String/Replace_Space.py`** - Replaces spaces or processes whitespace
