@@ -38,6 +38,7 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`String/Rmv_Dup_Chr.py`** - Removes duplicate characters from a string
 - **`String/Sort_characters.py`** - Sorts characters in a string
 - **`String/SpaceRep.py`** - Replaces or processes spaces in text
+- **`String/String_Subset.py`** - Generates all subsets of a string (backtracking)
 - **`String/Vow_Cons.py`** - Counts vowels and consonants
 - **`String/duplicate.py`** - Finds duplicate characters and counts occurrences
 - **`String/Non_dup.py`** - Finds non-duplicate (unique) characters in a string
@@ -72,8 +73,6 @@ Most scripts take user input or have hardcoded test values. Check individual fil
 ## 📝 Notes
 
 These are practice scripts for learning Python fundamentals. They demonstrate various problem-solving approaches and algorithm implementations.
-
-Note: I sometimes use AI assistance (Claude) to get hints or guidance while solving problems; the code in this repo is implemented and adapted by me.
 
 ---
 
