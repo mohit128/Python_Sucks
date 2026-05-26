@@ -51,6 +51,13 @@ A collection of Python practice scripts covering fundamental programming concept
 - **`first.py`** - Initial practice script
 - **`multi.py`** - Multiplication or multi-concept operations
 
+### List & Tuple Utilities
+- **`List_Tuples/Min_max.py`** - Find minimum and maximum in a list/tuple
+- **`List_Tuples/Remove_dup.py`** - Remove duplicates from a list
+- **`List_Tuples/Sec_Lar.py`** - Find second largest element in a list
+- **`List_Tuples/list_Rotate.py`** - Rotate a list by N positions
+- **`List_Tuples/sort.py`** - Sort list or tuple elements
+
 ## 🚀 Quick Start
 
 Each script can be run independently:
