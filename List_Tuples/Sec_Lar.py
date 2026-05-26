@@ -6,7 +6,7 @@ a=[]
 
 for i in range(n):
     a.append(int(input()))
-    sec=ma
+   
     ma=max(a[i],ma)
     
 
